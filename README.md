@@ -9,6 +9,6 @@ Nombre: Samira Barrera
 Carnet: 24011301
 
 
-**Colaboracion Luis Velasquez**
-Nombre: Luis Ruben Velasquez Garcia.
+**COLABORACION LUIS RUBEN VELASQUEZ**
+Nombre: Luis Ruben Velasquez Garcia
 Carnet: 24011341
